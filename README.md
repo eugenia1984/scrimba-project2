@@ -42,7 +42,7 @@ Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
 - crear componentes desde un array de datos
 ```
 
-
+-> [Aca pueden ver la teoria](https://github.com/eugenia1984/react-varios-cursos/tree/main/03_scrimba/05_experiencias_airbnb)
 
 -> [Aca pueden ver el proyecto en codigo](https://github.com/eugenia1984/scrimba-project2)
 
