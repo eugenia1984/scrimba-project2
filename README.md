@@ -1,5 +1,31 @@
 ### 2do proyecto: Clone de las experiencias de airbnb  del curso de Scrimba con React
 
+
+Pueden ver toda la teoria y practica completo del curso de React : Scrimba con  Bob Ziroll, haciendo [click aca](https://github.com/eugenia1984/react-varios-cursos)
+
+---
+
+
+## Tecnologías 🛠️
+
+- <img src="https://img.icons8.com/color/30/null/html-5--v1.png"/> **HTML5**
+
+- <img src="https://img.icons8.com/stickers/30/null/css3.png"/> **CSS3**
+
+- <img src="https://img.icons8.com/color/30/null/javascript--v1.png"/> **JAVASCRIPT**
+
+- <img src="https://img.icons8.com/office/40/null/react.png"/> **REACT**
+
+---
+
+
+## Demo 📦
+
+Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
+:arrow_right: [aca](https://scrimba-proyect1.netlify.app/)
+
+---
+
 ![image](https://user-images.githubusercontent.com/72580574/200696130-a2a9bec3-6564-443f-8557-fd207560766b.png)
 
 Temas que se ven:
@@ -13,7 +39,23 @@ Temas que se ven:
 
 -> [Aca pueden ver el proyecto en codigo](https://codesandbox.io/s/proyecto2-opn4gw)
 
+
 ---
+
+## Por favor: 🎁
+
+* Comparte este proyecto con otros 📢
+* Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
+* Muchas gracias 🤓.
+
+---
+
+## Notas
+
+Agradezco su interés en este Proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y síganme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+
+---
+
 
 
 # Getting Started with Create React App
