@@ -5,12 +5,15 @@ import HeroText from "./HeroText";
 import "./HeroStyles.css";
 
 function Hero() {
+  const fullWidth = "100%";
   return (
     <section className="hero">
       <img 
         className="hero-photo"
         src={ HeroImg } 
-        alt="experiencie of airbnb" />
+        alt="experiencie of airbnb" 
+        width={ fullWidth }
+        />
       <HeroHeader text="Online Experiencies" />
       <HeroText text="Join unique interactive activities led by one&#x2011;of&#x2011;a&#x2011;kind host&#x2011;all without leaving home." />
     </section>
