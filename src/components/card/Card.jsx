@@ -5,7 +5,7 @@ import "../../App.css";
 function Card( { id , coverImg, coverImgAlt, rating, reviewCount, location, title, price}) {
   
     return (
-      <div key={ id }>
+      <div key={ id } className="card">
         <img 
           className="card-image" 
           src={ `../../${coverImg}` }
