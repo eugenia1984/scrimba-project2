@@ -13,13 +13,7 @@ function Cards() {
           <Card 
             key={ 0 + item.id }
             id={ item.id }
-            coverImg={ item.coverImg }
-            coverImgAlt={ item.title }
-            rating={ item.stats.rating }
-            reviewCount={ item.stats.reviewCount} 
-            location={ item.location }
-            title= { item.title }
-            price={ item.price }
+            item={item}
           />
         )
       })
