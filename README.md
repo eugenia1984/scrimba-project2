@@ -46,6 +46,10 @@ Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
 
 -> [Aca pueden ver el proyecto en codigo](https://github.com/eugenia1984/scrimba-project2)
 
+Asi quedó:
+
+![image](https://user-images.githubusercontent.com/72580574/206873975-3e26b346-4f86-4d57-a2ca-d4a7e64b9737.png)
+
 
 ---
 
