@@ -59,7 +59,7 @@ Si quieres ver cómo fue este proyecto, puedes hacerlo desde:
 
 ## Notas
 
-Agradezco su interés en este Proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y síganme en [LinkedIn](http://www.linkedin.com/in/maríaeugeniacosta)
+Agradezco su interés en este Proyecto ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984) 😊 y síganme en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
 
 ---
@@ -72,6 +72,7 @@ Agradezco su interés en este Proyecto ⌨️ con ❤️ de [María Eugenia Cost
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ---
+
 #### Available Scripts
 
 In the project directory, you can run:
